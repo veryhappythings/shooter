@@ -1,0 +1,8 @@
+A tiny little space shooter I made to learn Shoes.  It's not a very fun game but it was easy to write and taught me some things about Ruby.
+
+Requires Shoes (http://shoooes.net/), which is a lovely little bit of software.
+
+Runs with 'shoes shooter.rb'
+
+WASD controls, space bar to shoot.
+
